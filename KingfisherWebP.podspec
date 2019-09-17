@@ -35,6 +35,6 @@ KingfisherWebP is an extension of the popular library [Kingfisher](https://githu
   }
 
   s.dependency 'Kingfisher', '~> 5.0'
-  s.dependency 'libwebp', :git => 'https://github.com/webmproject/libwebp.git', '~> 1.0.2'
+  s.dependency 'libwebp', :git => 'https://github.com/webmproject/libwebp.git'
   
 end
